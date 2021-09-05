@@ -104,6 +104,10 @@ a.nav-link{
 	opacity:.20;
 }  
 
+#home .description{
+  width: 50rem;
+}
+
 .intro {
 	text-align:center;
     color: var(--main-fonts-color);
