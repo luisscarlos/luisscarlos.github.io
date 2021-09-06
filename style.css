@@ -105,7 +105,7 @@ a.nav-link{
 }  
 
 #home .description{
-  width: 50rem;
+  max-width: 750px;
 }
 
 .intro {
