@@ -315,7 +315,7 @@ hr {
 /*────────────────── 
      hamburger
 ──────────────────*/
-.hamburger {
+/*.hamburger {
 	display: none;
 }
 
@@ -348,7 +348,7 @@ hr {
 		opacity: 1;
 		transform:translatex(0px);
 	}
-}
+}*/
 
 /*────────────────── 
     media queries
@@ -366,7 +366,7 @@ hr {
 }
 
 
-@media only screen and (max-width: 500px) {
+/*@media only screen and (max-width: 500px) {
 
 	#home, #projects, #contact{
         overflow-x: hidden;
@@ -408,7 +408,7 @@ hr {
 	.nav-bar li{
 		opacity:0;
 	}
-}
+}*/
 
 .nav-active{
 	transform:translatex(0%);
